@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mahtab Khan 👋
 
-<!--
-**mahtab-010/mahtab-010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Developer | 🤖 AI Enthusiast
 
-Here are some ideas to get you started:
+I build things with Python, mostly focused on Artificial Intelligence — from machine learning experiments to AI-powered applications and automation scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 I mainly code in **Python**
+- 🧠 My main focus is **AI / Machine Learning**
+- 🌱 Currently exploring new AI tools, models, and frameworks
+- 📌 I enjoy turning ideas into working AI-driven projects
+- 🤝 Open to collaborating on interesting Python/AI projects
+
+## 📫 Connect With Me
+
+- GitHub: [@mahtab-010]
+- Instagram: [@Code._.dose] — Python/AI coding content
+
+---
+⭐️ Thanks for stopping by my profile!
