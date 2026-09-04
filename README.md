@@ -16,6 +16,7 @@ I build things with Python, mostly focused on Artificial Intelligence — from m
 
 - GitHub: [@mahtab-010]
 - Instagram: [@Code._.dose] — Python/AI coding content
+- Email: [mahtabcoc20@gmail.com]
 
 ---
 ⭐️ Thanks for stopping by my profile!
